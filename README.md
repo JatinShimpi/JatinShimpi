@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello world, It's me, Jatin I am currently working on getting a paid internship,<br>looking to collabarate on full stack projects with node.js, spring, react<br>looking for help with spring boot<br>currently learning about rust<br>ask me about anything about javascript<br>fun fact -> I learned legacy spring framework in my 2nd year of college 
-
+Hello world, It's me, Jatin I am currently working on getting a paid internship,<br>looking to collabarate on full stack projects with node.js, spring, react<br>looking for help with spring boot<br>currently learning about rust<br>ask me about anything about javascript<br>fun fact -> I learned legacy spring framework in my 2nd year of college <br> Let's connect and create something amazing! 💻🌍🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jatin._.184) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-shimpi-41ba7b2aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shimpijatin184@gmail.com) 
