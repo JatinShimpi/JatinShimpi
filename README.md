@@ -1,5 +1,5 @@
 # 💫 About Me:
-hello I am Jatin i am currently working on getting a paid internship,<br>looking to collabarate on full stack projects with node.js, spring, react<br>looking for help with spring boot<br>currently learning about rust<br>ask me about anything about javascript<br>fun fact -> i learned legacy spring framework in my 2nd year of college 
+Hello world, It's me, Jatin I am currently working on getting a paid internship,<br>looking to collabarate on full stack projects with node.js, spring, react<br>looking for help with spring boot<br>currently learning about rust<br>ask me about anything about javascript<br>fun fact -> I learned legacy spring framework in my 2nd year of college 
 
 
 ## 🌐 Socials:
